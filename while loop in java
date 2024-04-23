@@ -1,0 +1,13 @@
+program - print numbers from 1 to 5 by using while loop in java 
+solution -
+public class main {
+public static void main(string[] args){
+scanner in = new scanner(sysytem.in){
+int num = 1;
+while (num <= 5){
+system.out.println(num); num += 1;}
+}
+}
+}
+
+
